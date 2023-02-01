@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488888372637",
+    "project_id": "message-me-chat-app",
+    "storage_bucket": "message-me-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488888372637:android:903578646a0cfe90ebb374",
+        "android_client_info": {
+          "package_name": "com.example.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488888372637-f7kpmer6bitl7am4in37m3e2pom7pcqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNXL-gPCI-jI1jsZ1izzH1FX3fLiwLmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488888372637-f7kpmer6bitl7am4in37m3e2pom7pcqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
